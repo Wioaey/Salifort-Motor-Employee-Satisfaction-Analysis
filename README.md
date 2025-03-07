@@ -27,5 +27,18 @@ The analysis leverages employee data, including:
 - Performance Metrics: Performance ratings, project involvement, and training hours.
 
 - Employee Feedback: Satisfaction scores, engagement levels, and workplace environment assessments.
-Here is the a visual representation of the Data Dictionary:
+Here is a visual representation of the Data Dictionary:
 ![image](https://github.com/user-attachments/assets/d2530d1f-c0ec-4a82-b893-678448e6ef6c)
+
+## Analytical Approach
+The following project follows a structured analytical framework:
+
+1) **Data Preparation**: Cleaning, handling missing values, encoding categorical variables, and normalizing numerical features.
+2) **Exploratory Data Analysis**: Identifying key trends, correlations, and anomalies in employee satisfaction, tenure, compensation, and other relevant factors.
+3) **Feature Selection**: Determining the most influential factors impacting  employee attrition.
+4) **Predictive Modeling**: Utilizing machine learning models such as logistic regression, decision trees, and random forests to predict employee turnover.
+5) **Model Evaluation**: Assessing model accuracy, precision, recall and F1-Score to measure overall effectiveness.
+6) **Strategic Recommendations**: Developing actionable insights to improve employee retention and satisfaction.
+
+## Key Findings
+
