@@ -40,5 +40,10 @@ The following project follows a structured analytical framework:
 5) **Model Evaluation**: Assessing model accuracy, precision, recall and F1-Score to measure overall effectiveness.
 6) **Strategic Recommendations**: Developing actionable insights to improve employee retention and satisfaction.
 
-## Key Findings
+## Tools and Technologies
+The project utilizes a range of analytical tools and techniques, including:
+- **Programming and Data Analysis**: Python (Pandas, Numpy, Sklearn, Matplotlib, Seaborn and etc.)
+- **Data Visualization**: Python.
+- **Machine Learning Models**: Logistic Regression, Decision Trees, Random Forests.
+- **Report Generation and Documentation**: Jupyter Notebook, Github.
 
